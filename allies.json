@@ -24,7 +24,7 @@
 "name": "", 
 "allyCode": "739337978",
  "discordId": "445290040122408971",
- "userIcon": ":dart:"
+ "userIcon": ""
  },
 
 { 
@@ -170,6 +170,13 @@
 { 
 "name": "", 
 "allyCode": "139348339",
+ "discordId": "",
+ "userIcon": ""
+ },
+
+{ 
+"name": "", 
+"allyCode": "423945263",
  "discordId": "",
  "userIcon": ""
  }
